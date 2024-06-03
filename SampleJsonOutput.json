@@ -1,0 +1,113 @@
+{
+    "message": "success",
+    "meta": {
+        "start": 1,
+        "end": 10,
+        "of": 12475,
+        "total": 10,
+        "maxScore": 0,
+        "duration": 0
+    },
+    "result": [
+        {
+            "path": "https://www.cnn.com/2024/05/22/world/video/one-dead-71-injured-on-singapore-airlines-flight-after-severe-turbulence",
+            "type": "VideoObject",
+            "headline": "One dead, 71 injured on Singapore Airlines flight after severe turbulence",
+            "thumbnail": "https://media.cnn.com/api/v1/images/stellar/videothumbnails/60608315-59369146-generated-thumbnail.jpg?c=original",
+            "stellarID": "L19wYWdlcy9jbHdoZ3Q1YXowMDAwaHlwNWVuZ3cxaG9h",
+            "url": "https://www.cnn.com/2024/05/22/world/video/one-dead-71-injured-on-singapore-airlines-flight-after-severe-turbulence",
+            "lastModifiedDate": "2024-05-22T06:50:32.928Z",
+            "body": "CNN’s Ivan Watson reports on the deadly incident during a flight from London to Singapore "
+        },
+        {
+            "path": "https://www.cnn.com/2024/05/21/asia/singapore-airlines-turbulence-passenger-intl-hnk/index.html",
+            "type": "NewsArticle",
+            "headline": "‘All hell broke loose’: Passengers on Singapore Airlines flight describe nightmare at 37,000 feet",
+            "thumbnail": "https://media.cnn.com/api/v1/images/stellar/prod/2024-05-21t124523z-2008809943-rc20v7abk56u-rtrmadp-3-singaporeairlines-thailand.JPG?c=original",
+            "stellarID": "L19wYWdlcy9jbHdoODBkZnkwMDAwYTFxbDE3Z3g3eGcz",
+            "url": "https://www.cnn.com/2024/05/21/asia/singapore-airlines-turbulence-passenger-intl-hnk/index.html",
+            "lastModifiedDate": "2024-05-22T04:00:19.018Z",
+            "body": "Passengers on a Singapore Airlines flight hit by severe turbulence on Tuesday described a sudden, dramatic drop as “all hell broke loose” on board the Boeing airliner carrying 229 passengers and crew."
+        },
+        {
+            "path": "https://www.cnn.com/videos/tv/2024/05/22/exp-tsr-todd-singapore-airlines-turbulence-fatality.cnn",
+            "type": "VideoObject",
+            "headline": "Passenger dies after airliner hits turbulence",
+            "thumbnail": "https://media.cnn.com/api/v1/images/stellar/prod/240521220210-exp-tsr-todd-singapore-airlines-turbulence-fatality-00000310.png?c=original",
+            "stellarID": "L19wYWdlcy9oX2IwNjM1ZTVhNTA3YjdjMjM0ZjUwMWZmOGU5MjUxNWFk",
+            "url": "https://www.cnn.com/videos/tv/2024/05/22/exp-tsr-todd-singapore-airlines-turbulence-fatality.cnn",
+            "lastModifiedDate": "2024-05-22T02:09:24Z",
+            "body": "A Singapore Airlines flight hit such violent turbulence that 70 passengers were injured, and one died. Is there no way to avoid clear-air turbulence?"
+        },
+        {
+            "path": "https://www.cnn.com/2024/05/21/world/video/singapore-airlines-flight-passenger-andrew-davies-ebof-digvid",
+            "type": "VideoObject",
+            "headline": "Passenger aboard deadly Singapore Airlines flight with severe turbulence speaks out",
+            "thumbnail": "https://media.cnn.com/api/v1/images/stellar/prod/still-20627296-30463-878999999997-still.jpg?c=original",
+            "stellarID": "L19wYWdlcy9jbHdoM2E4eWgwMDAwNjRxOWcyb3pmcnk1",
+            "url": "https://www.cnn.com/2024/05/21/world/video/singapore-airlines-flight-passenger-andrew-davies-ebof-digvid",
+            "lastModifiedDate": "2024-05-22T00:33:17.925Z",
+            "body": "Passenger Andrew Davies described his experience aboard a deadly Singapore Airlines flight from London to Singapore in which one person died and at least 71 others were injured due to severe turbulence."
+        },
+        {
+            "path": "https://www.cnn.com/2024/05/21/health/video/sara-sidner-double-mastectomy-cancer-update-digvid",
+            "type": "VideoObject",
+            "headline": "Sara Sidner announces she's undergoing double mastectomy",
+            "thumbnail": "https://media.cnn.com/api/v1/images/stellar/videothumbnails/17940605-68457546-generated-thumbnail.jpg?c=original",
+            "stellarID": "L19wYWdlcy9jbHdncmlkYWswMDAwN2xwOWgwZzRkbDI0",
+            "url": "https://www.cnn.com/2024/05/21/health/video/sara-sidner-double-mastectomy-cancer-update-digvid",
+            "lastModifiedDate": "2024-05-21T19:02:20.773Z",
+            "body": "CNN’s Sara Sidner provides an update on her cancer treatment and announces that she’s having a double mastectomy after undergoing chemotherapy."
+        },
+        {
+            "path": "https://www.cnn.com/2024/05/21/world/video/germany-hit-with-floods-near-border-with-france",
+            "type": "VideoObject",
+            "headline": "Germany hit with floods near border with France",
+            "thumbnail": "https://media.cnn.com/api/v1/images/stellar/videothumbnails/12631310-77732202-generated-thumbnail.jpg?c=original",
+            "stellarID": "L19wYWdlcy9jbHdnb2J0MjcwMDB3NW1xajFyMzI0Y3hn",
+            "url": "https://www.cnn.com/2024/05/21/world/video/germany-hit-with-floods-near-border-with-france",
+            "lastModifiedDate": "2024-05-21T17:32:21.907Z",
+            "body": ""
+        },
+        {
+            "path": "https://www.cnn.com/2024/05/21/us/deaths-falls-hiking-climbing-parks/index.html",
+            "type": "NewsArticle",
+            "headline": "Two found dead in separate falls while hiking and climbing at US parks this week, officials say",
+            "thumbnail": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1244101600.jpg?c=original",
+            "stellarID": "L19wYWdlcy9jbHdnamxjaWkwMDAwenBwODFzNXc4cGZq",
+            "url": "https://www.cnn.com/2024/05/21/us/deaths-falls-hiking-climbing-parks/index.html",
+            "lastModifiedDate": "2024-05-21T17:05:40.116Z",
+            "body": "Two people – a hiker in Oregon and a climber in Alaska – are dead this week after falling to their deaths while visiting US parks, according officials."
+        },
+        {
+            "path": "https://www.cnn.com/2024/05/21/cars/vinfast-regulators-investigating-fatal-crash-ev/index.html",
+            "type": "NewsArticle",
+            "headline": "Federal regulators are investigating fatal crash of VinFast EV",
+            "thumbnail": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1243923090.jpg?c=original",
+            "stellarID": "L19wYWdlcy9jbHdnZ2d0NDYwMDAweHJvdjI0ejYwcDl4",
+            "url": "https://www.cnn.com/2024/05/21/cars/vinfast-regulators-investigating-fatal-crash-ev/index.html",
+            "lastModifiedDate": "2024-05-21T18:09:17.509Z",
+            "body": "Federal regulators are investigating a California crash that killed four occupants who rode in a VinFast electric SUV, which had automated steering features the owner had earlier complained about."
+        },
+        {
+            "path": "https://www.cnn.com/2024/05/21/world/video/deadly-turbulence-fst-052111aseg1-cnni-us-fast",
+            "type": "VideoObject",
+            "headline": "Severe turbulence on Singapore Airlines flight leaves one dead and dozens injured",
+            "thumbnail": "https://media.cnn.com/api/v1/images/stellar/videothumbnails/09873674-74005606-generated-thumbnail.jpg?c=original",
+            "stellarID": "L19wYWdlcy9jbHdnbWxvaTkwMDAwM25ubjVhaXpiajZs",
+            "url": "https://www.cnn.com/2024/05/21/world/video/deadly-turbulence-fst-052111aseg1-cnni-us-fast",
+            "lastModifiedDate": "2024-05-21T16:44:55.580Z",
+            "body": "Marc Stewart reports on the Singapore Airlines flight from London to Singapore that encountered deadly turbulence."
+        },
+        {
+            "path": "https://www.cnn.com/videos/world/2024/05/21/singapore-airlines-flight-turbulence-death-ldn-digvid.cnn",
+            "type": "VideoObject",
+            "headline": "Video shows scene inside Singapore Airlines flight after it lands following severe turbulence",
+            "thumbnail": "https://media.cnn.com/api/v1/images/stellar/prod/240521095102-singapore-airlines-turbulence-vpx.jpg?c=original",
+            "stellarID": "L19wYWdlcy9oX2IxMDk3ZGE2Mjc0OWU2ZWRhN2E1OTg5MmVmZTRjNjhm",
+            "url": "https://www.cnn.com/videos/world/2024/05/21/singapore-airlines-flight-turbulence-death-ldn-digvid.cnn",
+            "lastModifiedDate": "2024-05-21T20:26:07Z",
+            "body": "One person has died and at least 71 others were injured on board a Singapore Airlines plane that encountered severe turbulence on a flight from London to Singapore."
+        }
+    ]
+}
